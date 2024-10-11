@@ -1,0 +1,17 @@
+/** brief Serial: 913a7526
+    file: lab01.c
+ *
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main (void)
+{
+	fprintf(stdout,"Rohan Trikha's CENG153 Greenhouse Controller\n");
+	fprintf(stdout,"Press ENTER to continue...");
+	fgetc(stdin);
+
+return EXIT_FAILURE; 
+}
+

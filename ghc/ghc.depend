@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1706850314 source:/home/pi/ceng153/labs/ghc/hts221.c
+	"hts221.h"
+
+1706850314 /home/pi/ceng153/labs/ghc/hts221.h
+	<fcntl.h>
+	<i2c/smbus.h>
+	<linux/i2c-dev.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<sys/ioctl.h>
+	<unistd.h>
+
+1706850314 source:/home/pi/ceng153/labs/ghc/lps25h.c
+	"lps25h.h"
+
+1706850314 /home/pi/ceng153/labs/ghc/lps25h.h
+	<fcntl.h>
+	<i2c/smbus.h>
+	<linux/i2c-dev.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<sys/ioctl.h>
+	<unistd.h>
+
